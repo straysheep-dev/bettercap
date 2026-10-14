@@ -26,7 +26,7 @@ require (
 	github.com/google/gopacket v1.1.19
 	github.com/google/gousb v1.1.2
 	github.com/gorilla/mux v1.8.0
-	github.com/gorilla/websocket v1.4.2
+	github.com/gorilla/websocket v1.5.3
 	github.com/hashicorp/mdns v1.0.4
 	github.com/inconshreveable/go-vhost v0.0.0-20160627193104-06d84117953b
 	github.com/jpillora/go-tld v1.1.1
